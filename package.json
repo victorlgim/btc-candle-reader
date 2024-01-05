@@ -1,0 +1,13 @@
+{
+  "name": "btc-candle-reader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:victorlgim/btc-candle-reader.git",
+  "author": "victorlgim <victor.guedes888@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.6.4",
+    "dotenv": "^16.3.1"
+  }
+}
