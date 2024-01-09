@@ -24,7 +24,7 @@
 !.mailmap
 !.nycrc
 !.yamllint.yaml
-
+*lock
 # === Rules for root dir ===
 /core
 /vgcore.*
